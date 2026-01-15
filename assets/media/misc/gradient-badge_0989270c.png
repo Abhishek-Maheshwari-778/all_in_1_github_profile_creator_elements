@@ -1,0 +1,24 @@
+<svg width="107.4" height="20" viewBox="0 0 1074 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="checks: unknown">
+  <title>checks: unknown</title>
+  <linearGradient id="OLeuC" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="mrNgw"><rect width="1074" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#mrNgw)">
+    <rect width="472" height="200" fill="#555"/>
+    <rect width="602" height="200" fill="url(#x)" x="472"/>
+    <rect width="1074" height="200" fill="url(#OLeuC)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="372" fill="#000" opacity="0.25">checks</text>
+    <text x="50" y="138" textLength="372">checks</text>
+    <text x="527" y="148" textLength="502" fill="#000" opacity="0.25">unknown</text>
+    <text x="517" y="138" textLength="502">unknown</text>
+  </g>
+  
+  <linearGradient id="x" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#ff9eec" />
+    <stop offset="100%" style="stop-color:#d0a1fc" />
+  </linearGradient>
+</svg>

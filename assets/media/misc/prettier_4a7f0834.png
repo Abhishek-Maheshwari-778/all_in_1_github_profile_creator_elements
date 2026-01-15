@@ -1,0 +1,25 @@
+<svg width="117" height="20" viewBox="0 0 1170 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="code style: prettier">
+  <title>code style: prettier</title>
+  <linearGradient id="tOoKV" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="gmkNb"><rect width="1170" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#gmkNb)">
+    <rect width="659" height="200" fill="#555"/>
+    <rect width="511" height="200" fill="url(#x)" x="659"/>
+    <rect width="1170" height="200" fill="url(#tOoKV)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="559" fill="#000" opacity="0.25">code style</text>
+    <text x="50" y="138" textLength="559">code style</text>
+    <text x="714" y="148" textLength="411" fill="#000" opacity="0.25">prettier</text>
+    <text x="704" y="138" textLength="411">prettier</text>
+  </g>
+  
+  <linearGradient id="x" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#ff94c8" />
+    <stop offset="50%" style="stop-color:#cacfda" />
+    <stop offset="100%" style="stop-color:#61eddb" />
+  </linearGradient>
+</svg>

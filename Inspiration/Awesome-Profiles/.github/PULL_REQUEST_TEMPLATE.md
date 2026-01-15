@@ -1,13 +1,13 @@
-## What type of PR is this? (check all applicable)
+﻿## What type of PR is this? (check all applicable)
 
 
-- [ ] 🚀 Added Name
-- [ ] ✨ Feature
-- [ ] ✅ Joined Community
-- [ ] 🌟 ed the repo
-- [ ] 🐛 Grammatical Error
-- [ ] 📝 Documentation Update
-- [ ] 🚩 Other
+- [ ] ðŸš€ Added Name
+- [ ] âœ¨ Feature
+- [ ] âœ… Joined Community
+- [ ] ðŸŒŸ ed the repo
+- [ ] ðŸ› Grammatical Error
+- [ ] ðŸ“ Documentation Update
+- [ ] ðŸš© Other
 
 ## Description
 

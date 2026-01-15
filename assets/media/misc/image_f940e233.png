@@ -1,0 +1,20 @@
+<svg width="61.5" height="20" viewBox="0 0 615 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="forks: 47">
+  <title>forks: 47</title>
+  <linearGradient id="kDYDK" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="CHbrf"><rect width="615" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#CHbrf)">
+    <rect width="375" height="200" fill="#555"/>
+    <rect width="240" height="200" fill="#08C" x="375"/>
+    <rect width="615" height="200" fill="url(#kDYDK)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="275" fill="#000" opacity="0.25">forks</text>
+    <text x="50" y="138" textLength="275">forks</text>
+    <text x="430" y="148" textLength="140" fill="#000" opacity="0.25">47</text>
+    <text x="420" y="138" textLength="140">47</text>
+  </g>
+  
+</svg>

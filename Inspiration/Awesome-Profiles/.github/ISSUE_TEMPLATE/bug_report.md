@@ -1,8 +1,8 @@
----
-name: 🐛 Error
-about: Create a issue to help us to improve this project ✨
+﻿---
+name: ðŸ› Error
+about: Create a issue to help us to improve this project âœ¨
 title: "Error: "
-labels: 👀 needs triage, 🐛 error
+labels: ðŸ‘€ needs triage, ðŸ› error
 ---
 
 ### Describe the Error

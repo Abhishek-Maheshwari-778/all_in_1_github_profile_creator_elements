@@ -1,2 +1,2 @@
-- [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
-- [Christian Petersen](https://github.com/fnky/fnky)
+﻿- [View Template](https://github.com/BrunnerLivio/BrunnerLivio)
+- [View Template](https://github.com/fnky/fnky)

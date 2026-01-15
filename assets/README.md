@@ -1,10 +1,10 @@
-# 🖼️ Assets & Animated GIFs
+﻿# ðŸ–¼ï¸ Assets & Animated GIFs
 
 Add life to your profile with our curated collection of assets!
 
-## 📂 Contents
+## ðŸ“‚ Contents
 
-### 🎬 [Animated GIFs Collection](./Animated-GIFs-Collection.md)
+### ðŸŽ¬ [Animated GIFs Collection](./Animated-GIFs-Collection.md)
 A massive library of GIFs organized by category:
 - **Coding Workflows**: Developers typing, debugging, and shipping code.
 - **Hello Banners**: Welcoming animations in various styles.
@@ -12,4 +12,4 @@ A massive library of GIFs organized by category:
 - **Fun**: Relatable developer memes and reactions.
 
 ---
-[🔙 Back to Main Menu](../README.md)
+[ðŸ”™ Back to Main Menu](../README.md)

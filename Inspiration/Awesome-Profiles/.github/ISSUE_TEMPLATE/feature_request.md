@@ -1,8 +1,8 @@
----
-name: 🚀 Feature request
-about: Suggest an idea for this project 🌈
+﻿---
+name: ðŸš€ Feature request
+about: Suggest an idea for this project ðŸŒˆ
 title: "Feature: "
-labels: 👀 needs triage, 🌈 feature
+labels: ðŸ‘€ needs triage, ðŸŒˆ feature
 ---
 
 ### Is your feature request related to a problem? Please describe.

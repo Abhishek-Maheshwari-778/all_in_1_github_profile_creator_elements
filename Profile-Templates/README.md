@@ -1,4 +1,4 @@
-# 📝 Profile Templates Collection
+﻿# ðŸ“ Profile Templates Collection
 
 Welcome to the **Profile Templates** collection! Here you will find a variety of pre-designed templates to kickstart your GitHub profile.
 
@@ -8,7 +8,7 @@ Welcome to the **Profile Templates** collection! Here you will find a variety of
 3. **Copy** the raw markdown content.
 4. **Paste** it into your profile's `README.md`.
 
-## 📂 Template Gallery
+## ðŸ“‚ Template Gallery
 
 | Template | Description | Complexity |
 | :--- | :--- | :--- |
@@ -26,4 +26,4 @@ Welcome to the **Profile Templates** collection! Here you will find a variety of
 | **[Calligraphy](./Calligraphy.md)** | Elegant text-based designs. | Low |
 
 ---
-[🔙 Back to Main Menu](../README.md)
+[ðŸ”™ Back to Main Menu](../README.md)

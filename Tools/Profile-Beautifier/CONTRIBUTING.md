@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 Thank you for investing your time in contributing to our project! 
 
@@ -14,12 +14,12 @@ Please note we have a code of conduct, please follow it in all your interactions
 2. Update the README.md with details of changes to the interface, this includes new environment 
    variables, exposed ports, useful file locations and container parameters.
 3. Add the tool to the bottom of the list and category
-4. Your Pull request must be in the following format: 👇
+4. Your Pull request must be in the following format: ðŸ‘‡
    #### 60 . [your github repository title with link](https://yourlink.com)
    
    short Description for repository .....
    
-   📍 For example : &nbsp; <br>
+   ðŸ“ For example : &nbsp; <br>
    
     example image for tool 
 

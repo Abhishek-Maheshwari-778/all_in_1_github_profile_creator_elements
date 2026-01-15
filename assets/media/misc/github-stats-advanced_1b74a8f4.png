@@ -1,0 +1,486 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 350 208" style="enable-background:new 0 0 350 208;" xml:space="preserve">
+  <style type="text/css">
+    <![CDATA[
+    @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;700&display=block");
+    .backgroundColor{fill:#26272D;}
+    .backgroundColorLine{stroke:#26272D;}
+    .backgroundInnerLineOpacity{opacity:1;}
+    .statsBaseLineStyle{fill:none; stroke:#FFFFFF; stroke-width:0.5; opacity:0.2;}
+    .statsBaseIconStyle{fill:#FFFFFF; opacity:0.2;}
+    .currentStatsShapeStyle{opacity:0.8; stroke:#FFFFFF; stroke-width:1;}
+    .currentStatsLoadingStyle{opacity:0.8; stroke:#FFFFFF; stroke-width:1;}
+    .textGithubIDStyle{font-family: "Inter", Sans-Serif;font-weight: 700;font-size: 12px; color: #FFFFFF;}
+    .textCurrentAverageStyle{font-family: "Inter", Sans-Serif;font-weight: 700;font-size: 12px; fill: #FFFFFF;}
+    .textCurrentStatsNumberStyle{font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 9px; fill: #FFFFFF;}
+    .textSubtitleStyle{font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 12px; color: #646569;}
+    .textLabelStyle{font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 10px; fill: #FFFFFF; }
+    .textLabelSubStyle{font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 10px; fill: #FFFFFF; opacity:0.5;}
+    .textInfoStyle{font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 7px; fill: #FFFFFF; opacity:0.3;}
+    .textLangLabelStyle{fill: #FFFFFF; opacity:0.3; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 7px;}
+    .textLangStyle{margin-right: 8px; color:  #FFFFFF; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangDot1{margin-right: 8px; color:  #FFFFFF; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangDot2{margin-right: 8px; color:  #96979B; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangDot3{margin-right: 8px; color:  #6F7073; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangDot4{margin-right: 8px; color:  #4D4E51; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangDot5{margin-right: 8px; color:  #3D3D41; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangDot6{margin-right: 8px; color:  #36363A; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px;}
+    .textLangPercent{margin-right: 8px; color: #646569; font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 14px; }
+    .langType1{fill: #FFFFFF; }
+    .langType2{fill: #6F7073;}
+    .langType3{fill: #4D4E51;}
+    .langType4{fill: #3D3D41;}
+    .langType5{fill: #36363A;}
+    .langType6{fill: #2E2F32;}
+    ul{line-height: 1.75em; list-style: none; margin: 0; padding: 0;}
+    li{display: inline-flex; margin: 0; padding: 0; align-items: left; flex-wrap: nowrap;}
+    ]]>
+  </style>
+  <g id="background">
+    <rect id="backgroundBox" width="350" height="208" rx="8" class = "backgroundColor"/>
+    <rect x="4.5" y="4.5" width="341" height="199" rx="7.5" style="fill:none;stroke:url(#backgroundInnerLineGradient);stroke-width:0.5;stroke-miterlimit:10;"/>
+    <linearGradient id="backgroundInnerLineGradient" gradientUnits="userSpaceOnUse" x1="3.75" y1="100" x2="346.25" y2="100">
+      <stop  offset="0" style="stop-color:#AE7BFA"/>
+      <stop  offset="0.5219" style="stop-color:#6489E7"/>
+      <stop  offset="1" style="stop-color:#78EDFD"/>
+    </linearGradient>
+  </g>
+  <g id="statsBaseLines" opacity="0">
+    <polygon id="0p3xBase" class="statsBaseLineStyle" points="278,64.5 284.51,68.25 284.51,75.75 278,79.5 271.49,75.75 271.49,68.25"/>
+    <polygon id="10p4x" class="statsBaseLineStyle" points="278,62 286.67,67 286.67,77 278,82 269.33,77 269.33,67"/>
+    <polygon id="20p5x" class="statsBaseLineStyle" points="278,59.5 288.85,65.75 288.85,78.25 278,84.5 267.15,78.25 267.15,65.75"/>
+    <polygon id="30p6x" class="statsBaseLineStyle" points="278,57 291.02,64.5 291.02,79.5 278,87 264.99,79.5 264.99,64.5"/>
+    <polygon id="40p7x" class="statsBaseLineStyle" points="278,54.5 293.18,63.25 293.18,80.75 278,89.5 262.82,80.75 262.82,63.25"/>
+    <polygon id="50p8x" class="statsBaseLineStyle" points="278,52 295.35,62 295.35,82 278,92 260.65,82 260.65,62"/>
+    <polygon id="60p9x" class="statsBaseLineStyle" points="278,49.5 297.52,60.75 297.52,83.25 278,94.5 258.48,83.25 258.48,60.75"/>
+    <polygon id="70p10x" class="statsBaseLineStyle" points="278,47 299.69,59.5 299.69,84.5 278,97 256.31,84.5 256.31,59.5"/>
+    <polygon id="80p11x" class="statsBaseLineStyle" points="278,44.5 301.86,58.25 301.86,85.75 278,99.5 254.15,85.75 254.15,58.25"/>
+    <polygon id="90p12x" class="statsBaseLineStyle" points="278,42 304.02,57 304.02,87 278,102 251.98,87 251.98,57"/>
+    <polygon id="100p13xFull" class="statsBaseLineStyle" points="278,39.5 306.2,55.75 306.2,88.25 278,104.5 249.81,88.25 249.81,55.75"/>
+    <polygon id="110p14xOuter" class="statsBaseLineStyle" points="278,37 308.36,54.5 308.36,89.5 278,107 247.63,89.5 247.63,54.5"/>
+  </g>
+  <g id="statsBaseIcons" opacity="0">
+    <g id="iconType1People">
+      <g>
+        <defs>
+          <rect id="iconType1Box" x="266" y="23" width="12" height="12"/>
+        </defs>
+        <clipPath id="iconType1Clipper">
+          <use xlink:href="#iconType1Box"  style="overflow:visible;"/>
+        </clipPath>
+        <g style="clip-path:url(#iconType1Clipper);">
+          <path class="statsBaseIconStyle" d="M276.33,30.25l-4.19,2.61v-5.23L276.33,30.25z"/>
+          <path class="statsBaseIconStyle" d="M267.57,31.95l3.51-2.19v4.38L267.57,31.95z"/>
+          <path class="statsBaseIconStyle" d="M273.54,27.12c0.78,0,1.42-0.63,1.42-1.42c0-0.78-0.63-1.42-1.42-1.42c-0.79,0-1.42,0.63-1.42,1.42C272.12,26.49,272.76,27.12,273.54,27.12z"/>
+          <path class="statsBaseIconStyle" d="M269.86,29.24c0.67,0,1.22-0.55,1.22-1.22s-0.55-1.22-1.22-1.22c-0.67,0-1.22,0.55-1.22,1.22S269.19,29.24,269.86,29.24z"/>
+        </g>
+      </g>
+    </g>
+    <g id="iconType2Tree">
+      <g>
+        <defs>
+          <rect id="iconType2Box" x="310" y="48" width="12" height="12"/>
+        </defs>
+        <clipPath id="iconType2Clipper">
+          <use xlink:href="#iconType2Box"  style="overflow:visible;"/>
+        </clipPath>
+        <g style="clip-path:url(#iconType2Clipper);">
+          <path class="statsBaseIconStyle" d="M316,54.86l2.55,4.1h-5.11L316,54.86z"/>
+          <path class="statsBaseIconStyle" d="M318.15,56.23c0.73-0.47,1.29-1.16,1.6-1.97c0.3-0.81,0.33-1.7,0.09-2.54c-0.25-0.83-0.76-1.56-1.46-2.08c-0.7-0.52-1.55-0.79-2.42-0.78c-0.87,0.01-1.71,0.3-2.4,0.83s-1.19,1.27-1.42,2.11c-0.23,0.84-0.18,1.73,0.14,2.54c0.32,0.81,0.89,1.49,1.64,1.94l2.13-3.42L318.15,56.23z"/>
+        </g>
+      </g>
+    </g>
+    <g id="iconType3Fire">
+      <g>
+        <defs>
+          <rect id="iconType3Box" x="310" y="83.5" width="12" height="12"/>
+        </defs>
+        <clipPath id="iconType3Clipper">
+          <use xlink:href="#iconType3Box"  style="overflow:visible;"/>
+        </clipPath>
+        <g style="clip-path:url(#iconType3Clipper);">
+          <path class="statsBaseIconStyle" d="M312.99,86.33l6.77,5.09l-3.71,2.98l-3.71-2.98L312.99,86.33z"/>
+          <path class="statsBaseIconStyle" d="M315.5,84.31l1.11,1.74l-1.11,0.89l-1.11-0.89L315.5,84.31z"/>
+          <path class="statsBaseIconStyle" d="M319.1,85.45l-2.69,2.2l3.34,2.52L319.1,85.45z"/>
+        </g>
+      </g>
+    </g>
+    <g id="icontype4Soil">
+      <g>
+        <defs>
+          <rect id="icontype4Box" x="266" y="109" width="12" height="12"/>
+        </defs>
+        <clipPath id="icontype4Clipper">
+          <use xlink:href="#icontype4Box"  style="overflow:visible;"/>
+        </clipPath>
+        <g style="clip-path:url(#icontype4Clipper);">
+          <path class="statsBaseIconStyle" d="M272.18,116.98c-0.79-0.35-1.55-0.35-2.3,0.12c-0.31,0.2-0.62,0.41-0.92,0.62c-0.15,0.1-0.3,0.21-0.45,0.31c0.41,0.47,0.91,0.86,1.48,1.13c0.56,0.27,1.18,0.43,1.8,0.46c0.63,0.03,1.25-0.07,1.84-0.29c0.59-0.22,1.12-0.56,1.57-0.99c-0.48-0.12-0.95-0.29-1.38-0.52C273.28,117.52,272.74,117.23,272.18,116.98z"/>
+          <path class="statsBaseIconStyle" d="M270.26,111.88c0.85,0,1.64,0.25,2.42,0.54c1.25,0.46,2.49,0.97,3.77,1.34c-0.24-0.84-0.7-1.6-1.35-2.18c-0.65-0.59-1.45-0.98-2.31-1.12c-0.86-0.15-1.74-0.05-2.55,0.28s-1.5,0.89-2.01,1.6l0.05-0.02C268.92,112.07,269.57,111.88,270.26,111.88z"/>
+          <path class="statsBaseIconStyle" d="M273.67,113.92c-0.88-0.33-1.75-0.71-2.69-0.87c-0.55-0.1-1.12-0.09-1.67,0.05c-0.6,0.16-1.19,0.38-1.75,0.64c-0.33,1.16-0.19,2.4,0.38,3.46c0.12-0.07,0.25-0.15,0.36-0.23c0.51-0.34,0.99-0.72,1.52-1.01c0.56-0.3,1.14-0.42,1.76-0.27c0.7,0.17,1.33,0.52,1.97,0.87c0.76,0.41,1.55,0.75,2.42,0.8c0.42-0.71,0.64-1.52,0.64-2.35c0-0.03,0-0.06,0-0.08c-0.41-0.11-0.81-0.22-1.2-0.36C274.83,114.35,274.25,114.14,273.67,113.92z"/>
+        </g>
+      </g>
+    </g>
+    <g id="iconType5Gold">
+      <g>
+        <defs>
+          <rect id="iconType5Box" x="219" y="83.5" width="12" height="12"/>
+        </defs>
+        <clipPath id="iconType5Clipper">
+          <use xlink:href="#iconType5Box"  style="overflow:visible;"/>
+        </clipPath>
+        <g style="clip-path:url(#iconType5Clipper);">
+          <path class="statsBaseIconStyle" d="M221.19,89.37l3.74-4.86l3.74,4.86l-3.74,4.86L221.19,89.37z"/>
+          <path class="statsBaseIconStyle" d="M227.68,92.25l1.06-1.38l1.06,1.38l-1.06,1.38L227.68,92.25z"/>
+          <path class="statsBaseIconStyle" d="M220.74,86.47l0.77-1l0.77,1l-0.77,1L220.74,86.47z"/>
+        </g>
+      </g>
+    </g>
+    <g id="iconType6Water">
+      <g>
+        <defs>
+          <rect id="iconType6Box" x="219" y="48" width="12" height="12"/>
+        </defs>
+        <clipPath id="iconType6Clipper">
+          <use xlink:href="#iconType6Box"  style="overflow:visible;"/>
+        </clipPath>
+        <g style="clip-path:url(#iconType6Clipper);">
+          <path class="statsBaseIconStyle" d="M228.07,53.83c0.52,0.18,1.03,0.39,1.53,0.56c0.01-0.13,0.02-0.26,0.02-0.39c0-1.09-0.38-2.14-1.08-2.97s-1.67-1.39-2.74-1.58c-1.07-0.19-2.17,0.01-3.11,0.56c-0.94,0.55-1.66,1.41-2.03,2.43c1.22-0.26,2.37,0.05,3.41,0.87c0.36,0.28,0.68,0.59,1.01,0.91C225.91,53.59,227.08,53.5,228.07,53.83z"/>
+          <path class="statsBaseIconStyle" d="M228.35,54.88c-0.84-0.29-1.81-0.39-2.59-0.04c0.07,0.06,0.13,0.11,0.2,0.17c0.87,0.7,1.89,1.18,2.99,1.39c0.2-0.34,0.36-0.7,0.48-1.08C229.07,55.16,228.72,55.01,228.35,54.88z"/>
+          <path class="statsBaseIconStyle" d="M223.87,54.26c-1.05-0.83-2.22-1.13-3.45-0.86c-0.13,0.96,0.05,1.93,0.51,2.79c0.46,0.85,1.17,1.54,2.04,1.96c0.87,0.42,1.85,0.57,2.8,0.4c0.95-0.16,1.83-0.62,2.51-1.31c-0.92-0.25-1.78-0.69-2.52-1.29C225.1,55.43,224.54,54.78,223.87,54.26z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="averageContainer" opacity="0">
+    <polygon id="averageContainerLine" style="fill:none;stroke:url(#averageContainerLineGradient);stroke-width:1;stroke-miterlimit:10;" points="40,58 55,66.5 55,83.5 40,92 25,83.5 25,66.5 "/>
+    <linearGradient id="averageContainerLineGradient" gradientUnits="userSpaceOnUse" x1="24.75" y1="75" x2="55.25" y2="75">
+    <stop offset="0" style="stop-color:#AE7BFA"/>
+    <stop offset="0.5219" style="stop-color:#6489E7"/>
+    <stop offset="1" style="stop-color:#78EDFD"/>
+    </linearGradient>
+  </g>
+  <g id="currentStatsShapeLoading">
+    <g id="infiniteLoadingGroup">
+      <polygon id="currentStatsShapeLoadingShape1" fill="url(#currentStatsShapeGradient)"/>
+      <polygon id="currentStatsShapeLoadingShape2" fill="url(#currentStatsShapeGradient)"/>
+      <animate xlink:href="#currentStatsShapeLoadingShape1" attributeName="points" attributeType="XML" dur="2s" begin="0s" fill="freeze" repeatCount="indefinite"  from="278,64.5 284.51,68.25 284.51,75.75 278,79.5 271.49,75.75 271.49,68.25" to="278,39.5 306.2,55.75 306.2,88.25 278,104.5 249.81,88.25 249.81,55.75"/>
+      <animate xlink:href="#currentStatsShapeLoadingShape1" attributeName="opacity" attributeType="XML" dur="2s" begin="0s" fill="freeze" repeatCount="indefinite" from="0.5" to="0"/>
+      <animate xlink:href="#currentStatsShapeLoadingShape2" attributeName="points" attributeType="XML" dur="2s" begin="0.6s" fill="freeze" repeatCount="indefinite" from="278,64.5 284.51,68.25 284.51,75.75 278,79.5 271.49,75.75 271.49,68.25" to="278,39.5 306.2,55.75 306.2,88.25 278,104.5 249.81,88.25 249.81,55.75"/>
+      <animate xlink:href="#currentStatsShapeLoadingShape2" attributeName="opacity" attributeType="XML" dur="2s" begin="0.6s" fill="freeze" repeatCount="indefinite" from="0.5" to="0"/>
+      <linearGradient id="currentStatsShapeGradient" gradientUnits="userSpaceOnUse" x1="250" y1="72" x2="306" y2="72">
+        <stop offset="0" style="stop-color:#AE7BFA"/>
+        <stop offset="0.5" style="stop-color:#6489E7"/>
+        <stop offset="1" style="stop-color:#78EDFD"/>
+      </linearGradient>
+    </g>
+  </g>
+  <g id="currentStatsShape" opacity="0">
+      <polygon id="currentStats" class="currentStatsShapeStyle" fill="url(#currentStatsShapeGradient)" points="278,64.5 284.51,68.25 284.51,75.75 278,79.5 271.49,75.75 271.49,68.25"/>
+    <linearGradient id="currentStatsShapeGradient" gradientUnits="userSpaceOnUse" x1="250" y1="72" x2="306" y2="72">
+      <stop offset="0" style="stop-color:#AE7BFA"/>
+      <stop offset="0.5" style="stop-color:#6489E7"/>
+      <stop offset="1" style="stop-color:#78EDFD"/>
+    </linearGradient>
+  </g>
+  <!-- Edit svg of currentTierImage -->
+  <g id="currentTierImage" opacity="0">
+    
+<svg x="116" y="58" width="32" height="32" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_di_581_626)">
+<path d="M34.9899 13.9661C34.9899 15.3494 29.508 17.3398 24.9799 17.3398V32.4468C24.98 33.9935 25.2563 35.5158 25.784 36.8772C26.3117 38.2385 27.0743 39.3961 28.0031 40.2459C30.2526 42.2959 33.2061 45.1595 34.9899 47.4849C36.7737 45.1595 39.7362 42.2959 41.9767 40.2459C42.9055 39.3961 43.6681 38.2385 44.1958 36.8772C44.7235 35.5158 44.9998 33.9935 44.9999 32.4468V17.3398C40.4718 17.3398 34.9899 15.3494 34.9899 13.9661Z" fill="url(#paint0_linear_581_626)"/>
+</g>
+<path d="M34.9899 13.9661C34.9899 15.3494 29.508 17.3398 24.9799 17.3398V32.4468C24.98 33.9935 25.2563 35.5158 25.784 36.8772C26.3117 38.2385 27.0743 39.3961 28.0031 40.2459C30.2526 42.2959 33.2061 45.1595 34.9899 47.4849C36.7737 45.1595 39.7362 42.2959 41.9767 40.2459C42.9055 39.3961 43.6681 38.2385 44.1958 36.8772C44.7235 35.5158 44.9998 33.9935 44.9999 32.4468V17.3398C40.4718 17.3398 34.9899 15.3494 34.9899 13.9661Z" fill="url(#paint1_linear_581_626)"/>
+<path d="M34.9115 13.9661C34.9115 15.3494 29.4725 17.3398 24.9799 17.3398V32.4468C24.98 33.9935 25.2542 35.5158 25.7777 36.8772C26.3013 38.2385 27.0579 39.3961 27.9794 40.2459C30.2113 42.2959 33.1416 45.1595 34.9115 47.4849C36.6813 45.1595 39.6206 42.2959 41.8435 40.2459C42.7651 39.3961 43.5216 38.2385 44.0452 36.8772C48.684 24.8159 34.9115 20.3259 34.9115 13.9661Z" fill="white" fill-opacity="0.3" style="mix-blend-mode:soft-light"/>
+<path d="M34.9115 13.9661C34.9115 15.3494 29.4725 17.3398 24.9799 17.3398V32.4468C24.98 33.9935 25.2542 35.5158 25.7777 36.8772C26.3013 38.2385 27.0579 39.3961 27.9794 40.2459C30.2113 42.2959 33.1416 45.1595 34.9115 47.4849C36.6813 45.1595 39.6206 42.2959 41.8435 40.2459C42.7651 39.3961 43.5216 38.2385 44.0452 36.8772C48.684 24.8159 34.9115 20.3259 34.9115 13.9661Z" fill="white" fill-opacity="0.3" style="mix-blend-mode:soft-light"/>
+<path d="M34.9899 13.9661C34.9899 15.3494 29.508 17.3398 24.9799 17.3398V32.4468C24.98 33.9935 25.2563 35.5158 25.784 36.8772C26.3117 38.2385 27.0743 39.3961 28.0031 40.2459C30.2526 42.2959 33.2061 45.1595 34.9899 47.4849C34.9899 47.4849 34.9899 34.7633 34.9899 13.9661Z" fill="url(#paint2_linear_581_626)" fill-opacity="0.7" style="mix-blend-mode:lighten"/>
+<path d="M34.9899 13.9661C34.9899 15.3494 29.508 17.3398 24.9799 17.3398V32.4468C24.98 33.9935 25.2563 35.5158 25.784 36.8772C26.3117 38.2385 27.0743 39.3961 28.0031 40.2459C30.2526 42.2959 33.2061 45.1595 34.9899 47.4849C34.9899 47.4849 34.9899 34.7633 34.9899 13.9661Z" fill="url(#paint3_linear_581_626)" fill-opacity="0.7" style="mix-blend-mode:lighten"/>
+<g filter="url(#filter1_di_581_626)">
+<path d="M13.07 13.9661C13.07 15.3494 18.5519 17.3398 23.08 17.3398V32.4468C23.0799 33.9935 22.8035 35.5158 22.2758 36.8772C21.7481 38.2385 20.9856 39.3961 20.0568 40.2459C17.8073 42.2959 14.8538 45.1595 13.07 47.4849C11.2862 45.1595 8.32364 42.2959 6.08319 40.2459C5.15435 39.3961 4.39181 38.2385 3.86411 36.8772C3.33641 35.5158 3.06007 33.9935 3.05993 32.4468V17.3398C7.58807 17.3398 13.07 15.3494 13.07 13.9661Z" fill="url(#paint4_linear_581_626)"/>
+</g>
+<path d="M13.07 13.9661C13.07 15.3494 18.5519 17.3398 23.08 17.3398V32.4468C23.0799 33.9935 22.8035 35.5158 22.2758 36.8772C21.7481 38.2385 20.9856 39.3961 20.0568 40.2459C17.8073 42.2959 14.8538 45.1595 13.07 47.4849C11.2862 45.1595 8.32364 42.2959 6.08319 40.2459C5.15435 39.3961 4.39181 38.2385 3.86411 36.8772C3.33641 35.5158 3.06007 33.9935 3.05993 32.4468V17.3398C7.58807 17.3398 13.07 15.3494 13.07 13.9661Z" fill="url(#paint5_linear_581_626)"/>
+<path d="M13.1484 13.9661C13.1484 15.3494 18.5874 17.3398 23.08 17.3398V32.4468C23.0799 33.9935 22.8057 35.5158 22.2821 36.8772C21.7586 38.2385 21.002 39.3961 20.0804 40.2459C17.8486 42.2959 14.9182 45.1595 13.1484 47.4849C11.3786 45.1595 8.43925 42.2959 6.21635 40.2459C5.29479 39.3961 4.53823 38.2385 4.01466 36.8772C-0.624132 24.8159 13.1484 20.3259 13.1484 13.9661Z" fill="white" fill-opacity="0.3" style="mix-blend-mode:soft-light"/>
+<path d="M13.1484 13.9661C13.1484 15.3494 18.5874 17.3398 23.08 17.3398V32.4468C23.0799 33.9935 22.8057 35.5158 22.2821 36.8772C21.7586 38.2385 21.002 39.3961 20.0804 40.2459C17.8486 42.2959 14.9182 45.1595 13.1484 47.4849C11.3786 45.1595 8.43925 42.2959 6.21635 40.2459C5.29479 39.3961 4.53823 38.2385 4.01466 36.8772C-0.624132 24.8159 13.1484 20.3259 13.1484 13.9661Z" fill="white" fill-opacity="0.3" style="mix-blend-mode:soft-light"/>
+<path d="M13.07 13.9661C13.07 15.3494 18.5519 17.3398 23.08 17.3398V32.4468C23.0799 33.9935 22.8035 35.5158 22.2758 36.8772C21.7481 38.2385 20.9856 39.3961 20.0568 40.2459C17.8073 42.2959 14.8538 45.1595 13.07 47.4849C13.07 47.4849 13.07 34.7633 13.07 13.9661Z" fill="url(#paint6_linear_581_626)" fill-opacity="0.7" style="mix-blend-mode:lighten"/>
+<path d="M13.07 13.9661C13.07 15.3494 18.5519 17.3398 23.08 17.3398V32.4468C23.0799 33.9935 22.8035 35.5158 22.2758 36.8772C21.7481 38.2385 20.9856 39.3961 20.0568 40.2459C17.8073 42.2959 14.8538 45.1595 13.07 47.4849C13.07 47.4849 13.07 34.7633 13.07 13.9661Z" fill="url(#paint7_linear_581_626)" fill-opacity="0.7" style="mix-blend-mode:lighten"/>
+<g filter="url(#filter2_di_581_626)">
+<path d="M24.0172 3C24.0172 5.03655 15.0205 7.96692 7.58917 7.96692V30.2077C7.58941 32.4848 8.04292 34.7261 8.90896 36.7302C9.775 38.7344 11.0264 40.4387 12.5508 41.6898C16.2425 44.7078 21.0897 48.9237 24.0172 52.3471C26.9447 48.9237 31.8066 44.7078 35.4835 41.6898C37.0079 40.4387 38.2593 38.7344 39.1254 36.7302C39.9914 34.7261 40.4449 32.4848 40.4452 30.2077V7.96692C33.0138 7.96692 24.0172 5.03655 24.0172 3Z" fill="url(#paint8_linear_581_626)"/>
+</g>
+<path d="M24.0172 3C24.0172 5.03655 15.0205 7.96692 7.58917 7.96692V30.2077C7.58941 32.4848 8.04292 34.7261 8.90896 36.7302C9.775 38.7344 11.0264 40.4387 12.5508 41.6898C16.2425 44.7078 21.0897 48.9237 24.0172 52.3471C26.9447 48.9237 31.8066 44.7078 35.4835 41.6898C37.0079 40.4387 38.2593 38.7344 39.1254 36.7302C39.9914 34.7261 40.4449 32.4848 40.4452 30.2077V7.96692C33.0138 7.96692 24.0172 5.03655 24.0172 3Z" fill="url(#paint9_linear_581_626)"/>
+<path d="M23.8885 3C23.8885 5.03655 14.9623 7.96692 7.58917 7.96692V30.2077C7.5894 32.4848 8.03937 34.7261 8.89862 36.7302C9.75787 38.7344 10.9995 40.4387 12.5119 41.6898C16.1747 44.7078 20.9839 48.9237 23.8885 52.3471C26.793 48.9237 31.6169 44.7078 35.265 41.6898C36.7774 40.4387 38.0191 38.7344 38.8783 36.7302C46.4913 18.9734 23.8885 12.3631 23.8885 3Z" fill="white" fill-opacity="0.3" style="mix-blend-mode:soft-light"/>
+<path d="M23.8885 3C23.8885 5.03655 14.9623 7.96692 7.58917 7.96692V30.2077C7.5894 32.4848 8.03937 34.7261 8.89862 36.7302C9.75787 38.7344 10.9995 40.4387 12.5119 41.6898C16.1747 44.7078 20.9839 48.9237 23.8885 52.3471C26.793 48.9237 31.6169 44.7078 35.265 41.6898C36.7774 40.4387 38.0191 38.7344 38.8783 36.7302C46.4913 18.9734 23.8885 12.3631 23.8885 3Z" fill="white" fill-opacity="0.3" style="mix-blend-mode:soft-light"/>
+<path d="M24.0172 3C24.0172 5.03655 15.0205 7.96692 7.58917 7.96692V30.2077C7.58941 32.4848 8.04292 34.7261 8.90896 36.7302C9.775 38.7344 11.0264 40.4387 12.5508 41.6898C16.2425 44.7078 21.0897 48.9237 24.0172 52.3471C24.0172 52.3471 24.0172 33.6182 24.0172 3Z" fill="url(#paint10_linear_581_626)" fill-opacity="0.7" style="mix-blend-mode:lighten"/>
+<path d="M24.0172 3C24.0172 5.03655 15.0205 7.96692 7.58917 7.96692V30.2077C7.58941 32.4848 8.04292 34.7261 8.90896 36.7302C9.775 38.7344 11.0264 40.4387 12.5508 41.6898C16.2425 44.7078 21.0897 48.9237 24.0172 52.3471C24.0172 52.3471 24.0172 33.6182 24.0172 3Z" fill="url(#paint11_linear_581_626)" fill-opacity="0.7" style="mix-blend-mode:lighten"/>
+<g filter="url(#filter3_i_581_626)">
+<path d="M24.0171 7.83765C24.0171 9.39501 17.0198 11.6359 11.2398 11.6359V28.6435C11.24 30.3848 11.5927 32.0988 12.2663 33.6314C12.9399 35.164 13.9132 36.4672 15.0988 37.424C17.9702 39.7318 21.7402 42.9558 24.0171 45.5737C26.2941 42.9558 30.0756 39.7318 32.9354 37.424C34.121 36.4672 35.0944 35.164 35.768 33.6314C36.4416 32.0988 36.7943 30.3848 36.7945 28.6435V11.6359C31.0145 11.6359 24.0171 9.39501 24.0171 7.83765Z" fill="#A495FF" fill-opacity="0.5" style="mix-blend-mode:screen"/>
+</g>
+<defs>
+<filter id="filter0_di_581_626" x="21.9799" y="10.9661" width="26.0201" height="39.5188" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_581_626"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_581_626" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-3"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_581_626"/>
+</filter>
+<filter id="filter1_di_581_626" x="0.0599365" y="10.9661" width="26.0201" height="39.5188" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_581_626"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_581_626" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-3"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_581_626"/>
+</filter>
+<filter id="filter2_di_581_626" x="4.58917" y="0" width="38.856" height="55.3472" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_581_626"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_581_626" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-3"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_581_626"/>
+</filter>
+<filter id="filter3_i_581_626" x="11.2398" y="3.83765" width="25.5547" height="41.7361" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-4"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.260417 0 0 0 0 0.627083 0 0 0 0 0.833333 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_581_626"/>
+</filter>
+<linearGradient id="paint0_linear_581_626" x1="34.9899" y1="13.9661" x2="34.9899" y2="47.4849" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D172FF"/>
+<stop offset="0.505208" stop-color="#5997EB"/>
+<stop offset="1" stop-color="#4DFFFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_581_626" x1="34.9899" y1="13.9661" x2="34.9899" y2="47.4849" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2ED1F4" stop-opacity="0.3"/>
+<stop offset="0.505208" stop-color="#397FDD" stop-opacity="0.31"/>
+<stop offset="1" stop-color="#6EEFEF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_581_626" x1="24.9799" y1="17.2522" x2="35.3653" y2="43.7228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.44"/>
+<stop offset="1" stop-color="white" stop-opacity="0.46"/>
+</linearGradient>
+<linearGradient id="paint3_linear_581_626" x1="24.9799" y1="17.2522" x2="35.3653" y2="43.7228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.44"/>
+<stop offset="1" stop-color="white" stop-opacity="0.46"/>
+</linearGradient>
+<linearGradient id="paint4_linear_581_626" x1="13.07" y1="13.9661" x2="13.07" y2="47.4849" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D172FF"/>
+<stop offset="0.505208" stop-color="#5997EB"/>
+<stop offset="1" stop-color="#4DFFFF"/>
+</linearGradient>
+<linearGradient id="paint5_linear_581_626" x1="13.07" y1="13.9661" x2="13.07" y2="47.4849" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2ED1F4" stop-opacity="0.3"/>
+<stop offset="0.505208" stop-color="#397FDD" stop-opacity="0.31"/>
+<stop offset="1" stop-color="#6EEFEF"/>
+</linearGradient>
+<linearGradient id="paint6_linear_581_626" x1="23.08" y1="17.2522" x2="12.6946" y2="43.7228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.44"/>
+<stop offset="1" stop-color="white" stop-opacity="0.46"/>
+</linearGradient>
+<linearGradient id="paint7_linear_581_626" x1="23.08" y1="17.2522" x2="12.6946" y2="43.7228" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.44"/>
+<stop offset="1" stop-color="white" stop-opacity="0.46"/>
+</linearGradient>
+<linearGradient id="paint8_linear_581_626" x1="24.0172" y1="3" x2="24.0172" y2="52.3471" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D172FF"/>
+<stop offset="0.505208" stop-color="#5997EB"/>
+<stop offset="1" stop-color="#4DFFFF"/>
+</linearGradient>
+<linearGradient id="paint9_linear_581_626" x1="24.0172" y1="3" x2="24.0172" y2="52.3471" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2ED1F4" stop-opacity="0.3"/>
+<stop offset="0.505208" stop-color="#397FDD" stop-opacity="0.31"/>
+<stop offset="1" stop-color="#6EEFEF"/>
+</linearGradient>
+<linearGradient id="paint10_linear_581_626" x1="7.58917" y1="7.83795" x2="21.6718" y2="47.8508" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.44"/>
+<stop offset="1" stop-color="white" stop-opacity="0.46"/>
+</linearGradient>
+<linearGradient id="paint11_linear_581_626" x1="7.58917" y1="7.83795" x2="21.6718" y2="47.8508" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.44"/>
+<stop offset="1" stop-color="white" stop-opacity="0.46"/>
+</linearGradient>
+</defs>
+</svg>
+
+  </g>
+  <g id="currentStatsNumberText" opacity="0">
+      <text id="currentStatsNumberTextType1" x="279" y="32" class="textCurrentStatsNumberStyle">93</text>
+      <text id="currentStatsNumberTextType2" x="323" y="57.5" class="textCurrentStatsNumberStyle">96</text>
+      <text id="currentStatsNumberTextType3" x="323" y="92.5" class="textCurrentStatsNumberStyle">100</text>
+      <text id="currentStatsNumberTextType4" x="279" y="118" class="textCurrentStatsNumberStyle">100</text>
+      <text id="currentStatsNumberTextType5" x="232" y="92.5" class="textCurrentStatsNumberStyle">100</text>
+      <text id="currentStatsNumberTextType6" x="232" y="57.5" class="textCurrentStatsNumberStyle">78</text>
+  </g>
+  <!-- Edit github id (hyochan) @ the text after class="textGithubIDStyle of id="textTitle" -->
+  <!-- Edit average points (77) @ the text of id="textAverage" -->
+  <!-- Edit tier name (Challenger) @ the text after class="textLabelStyle" of id="textTierLabel" -->
+  <g id="SVGtitle">
+    <foreignObject x="24" y="22" width="324" height="80">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
+        <ul style="line-height: 1em">
+          <li >
+          <span id="userNameText" class="textGithubIDStyle" opacity="0">Hyo</span>
+          </li>
+          <li>
+          <span id="titleText" class="textSubtitleStyle" opacity="0">github-stats</span>
+          </li>
+        </ul>
+      </div>
+    </foreignObject>
+  </g>
+  <g id="text">
+    <g id="averageText" opacity="0">
+      <text id="textAverage" x="40" y="76" class="textCurrentAverageStyle" dominant-baseline="middle" text-anchor="middle">95</text>
+    </g>
+    <g id="textAverageLabel" opacity="0">
+      <text x="62" y="72" class="textLabelStyle">Average</text>
+      <text x="62" y="86" class="textLabelSubStyle">Points</text>
+    </g>
+    <g id="textTierLabel" opacity="0">
+      <text x="152" y="72" class="textLabelStyle">Challenger</text>
+      <text x="152" y="86" class="textLabelSubStyle">Tier</text>
+    </g>
+  </g>
+  <!-- Edit value of x and width @ langType# -->
+  <!-- starting point: 24 -->
+  <!-- end point: 324 -->
+  <!-- 100% of width = 300 -->
+  <g id="mostUsedLanguageLine" clip-path="url(#mostUsedLanguageLineClipper)">
+    <g id="mostUsedLanguageLine1" opacity="0">
+      <rect class="langType1" x="24" y="140" width="189" height="2"/>
+    </g>
+    ,<g id="mostUsedLanguageLine2" opacity="0">
+      <rect class="langType2" x="213" y="140" width="54" height="2"/>
+    </g>
+    ,<g id="mostUsedLanguageLine3" opacity="0">
+      <rect class="langType3" x="267" y="140" width="27" height="2"/>
+    </g>
+    ,<g id="mostUsedLanguageLine4" opacity="0">
+      <rect class="langType4" x="294" y="140" width="24" height="2"/>
+    </g>
+    ,<g id="mostUsedLanguageLine5" opacity="0">
+      <rect class="langType5" x="318" y="140" width="3" height="2"/>
+    </g>
+    ,<g id="mostUsedLanguageLine6" opacity="0">
+      <rect class="langType6" x="321" y="140" width="3" height="2"/>
+    </g>
+    
+    <defs>
+      <clipPath id="mostUsedLanguageLineClipper">
+        <rect x="24" y="140" width="300" height="2" rx="2"/>
+      </clipPath>
+    </defs>
+  </g>
+  <text id="textLangLabel" class="textLangLabelStyle" x="24" y="132" style="opacity:0.001;">Most Used Language</text>
+  <g id="mostUsedLanguageTextGroup" opacity="0">
+    <foreignObject x="48" y="300" width="608" height="160" transform="scale(0.5)">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
+        <ul>
+          
+
+            <li id="mostUsedLanguageText1">
+              <span class="textLangDot1">●</span>
+              <span class="textLangStyle">TypeScript</span>
+              <span class="textLangPercent">63%</span>
+            </li>
+
+            <li id="mostUsedLanguageText2">
+              <span class="textLangDot2">●</span>
+              <span class="textLangStyle">Dart</span>
+              <span class="textLangPercent">18%</span>
+            </li>
+
+            <li id="mostUsedLanguageText3">
+              <span class="textLangDot3">●</span>
+              <span class="textLangStyle">Kotlin</span>
+              <span class="textLangPercent">9%</span>
+            </li>
+          
+
+          <li id="mostUsedLanguageText4">
+            <span class="textLangDot4">●</span>
+            <span class="textLangStyle">Swift</span>
+            <span class="textLangPercent">8%</span>
+          </li>
+
+          <li id="mostUsedLanguageText5">
+            <span class="textLangDot5">●</span>
+            <span class="textLangStyle">Java</span>
+            <span class="textLangPercent">1%</span>
+          </li>
+
+          <li id="mostUsedLanguageText6">
+            <span class="textLangDot6">●</span>
+            <span class="textLangStyle">HTML</span>
+            <span class="textLangPercent">1%</span>
+          </li>
+        </ul>
+      </div>
+    </foreignObject>
+  </g>
+  <g id="doobooText" opacity="0">
+    <a href="https://stats.hyo.dev" target="_blank"><text id="textInfo" x="326" y="188" class="textInfoStyle" text-anchor="end">Designed by hyochan</text></a>
+  </g>
+  <!-- START of Animation -->
+  <!-- Hexagon Base Animation -->
+  <animate begin="0.00s" xlink:href="#statsBaseLines" attributeName="opacity" attributeType="XML" dur="0.6s" fill="freeze" from="0" to="1"/>
+  <animate begin="0.00s" xlink:href="#currentStatsShape" attributeName="opacity" attributeType="XML" dur="0.3s" fill="freeze" from="0" to="1"/>
+  <!-- Name Animation -->
+  <animate begin="0.00s" xlink:href="#SVGtitle" attributeName="opacity" attributeType="XML" dur="1s" fill="freeze" from="0" to="1"/>
+  <animate begin="0.00s" xlink:href="#userNameText" attributeName="opacity" attributeType="XML" dur="0.5s" fill="freeze" from="0" to="1"/>
+  <animate begin="0.00s" xlink:href="#titleText" attributeName="opacity" attributeType="XML" dur="0.8s" fill="freeze" from="0" to="1"/>
+  <!-- Hexagon Morphing Animation -->
+  <animate begin="1.50s" xlink:href="#currentStats" attributeName="points" attributeType="XML" dur="0.5s" fill="freeze" to="278,41.25 305.3324,56.25 306.2,88.25 278,104.5 249.81,88.25 254.5796,58.5"/>
+  <animate begin="1.60s" xlink:href="#currentStatsShapeLoading" attributeName="opacity" attributeType="XML" dur="0.4s" fill="freeze" from="1" to="0"/>
+  <!-- 6 Stats Animation -->
+  <animate begin="1.50s" xlink:href="#statsBaseIcons" attributeName="opacity" attributeType="XML" dur="0.2s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.50s" xlink:href="#currentStatsNumberText" attributeName="opacity" attributeType="XML" dur="0.2s" fill="freeze" from="0" to="1"/>
+  <!-- Avg Animation -->
+  <animate begin="1.50s" xlink:href="#averageContainer" attributeName="opacity" attributeType="XML" dur="0.3s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.50s" xlink:href="#averageText" attributeName="opacity" attributeType="XML" dur="0.6s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.50s" xlink:href="#textAverageLabel" attributeName="opacity" attributeType="XML" dur="0.8s" fill="freeze" from="0" to="1"/>
+  <!-- Tier Animation -->
+  <animate begin="1.50s" xlink:href="#currentTierImage" attributeName="opacity" attributeType="XML" dur="0.3s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.50s" xlink:href="#textTierLabel" attributeName="opacity" attributeType="XML" dur="0.8s" fill="freeze" from="0" to="1"/>
+  <!-- Language Label Animation -->
+  <animate begin="1.60s" xlink:href="#textLangLabel" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <!-- Language Shape Animation -->
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageLine1" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageLine2" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageLine3" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageLine4" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageLine5" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageLine6" attributeName="opacity" attributeType="XML" dur="0.30s" fill="freeze" from="0" to="1"/>
+  <!-- Language Text Animation -->
+  <animate begin="1.60s" xlink:href="#mostUsedLanguageTextGroup" attributeName="opacity" attributeType="XML" dur="0.60s" fill="freeze" from="0" to="1"/>
+  <!-- stats.hyo.dev Text Animation -->
+  <animate begin="1.60s" xlink:href="#doobooText" attributeName="opacity" attributeType="XML" dur="0.90s" fill="freeze" from="0" to="1"/>
+  <!-- END of Animation -->
+  </svg>
+  
