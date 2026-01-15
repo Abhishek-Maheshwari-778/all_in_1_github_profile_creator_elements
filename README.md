@@ -26,8 +26,8 @@
 
 | 🎨 **Templates** | 🎬 **Assets & GIFs** | 🛠️ **Tools** | ✨ **Inspiration** |
 |:---:|:---:|:---:|:---:|
-| <a href="./Profile-Templates/"><img src="assets/media/misc/terminalgif_e5971436.gif" width="150" alt="Templates"></a> | <a href="./Assets/"><img src="assets/media/misc/gradient-badge_1346162b.png" width="150" alt="Assets"></a> | <a href="./Tools/"><img src="assets/media/misc/metricsorganizationsvg_f8894edf.svg" width="150" alt="Tools"></a> | <a href="./Inspiration/"><img src="assets/media/misc/github-contribution-grid-snakesvg_a89f4ef0.svg" width="150" alt="Inspiration"></a> |
-| **[Explore Templates](./Profile-Templates/)** | **[Browse Assets](./Assets/)** | **[View Tools](./Tools/)** | **[Get Inspired](./Inspiration/)** |
+| <a href="./Profile-Templates/"><img src="assets/media/misc/terminalgif_e5971436.gif" width="150" alt="Templates"></a> | <a href="./assets/"><img src="assets/media/misc/gradient-badge_1346162b.png" width="150" alt="Assets"></a> | <a href="./Tools/"><img src="assets/media/misc/metricsorganizationsvg_f8894edf.svg" width="150" alt="Tools"></a> | <a href="./Inspiration/"><img src="assets/media/misc/github-contribution-grid-snakesvg_a89f4ef0.svg" width="150" alt="Inspiration"></a> |
+| **[Explore Templates](./Profile-Templates/)** | **[Browse Assets](./assets/)** | **[View Tools](./Tools/)** | **[Get Inspired](./Inspiration/)** |
 
 </div>
 
@@ -52,7 +52,7 @@ Skip the design phase and get started instantly with our copy-paste ready templa
 *   **Dynamic**: Real-time stats, graphs, and activity trackers.
 *   **Themed**: Gaming, Anime, Cyberpunk, and more.
 
-### 🎬 [Asset Gallery](./Assets/)
+### 🎬 [Asset Gallery](./assets/)
 A massive library of **400+ localized GIFs and images** to animate your profile.
 *   **Coding Workflows**: Matrix rain, typing effects, and server racks.
 *   **Social Icons**: Animated logos for Discord, Twitter, LinkedIn, etc.
