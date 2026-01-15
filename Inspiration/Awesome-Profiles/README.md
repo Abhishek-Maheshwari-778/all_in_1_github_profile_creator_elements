@@ -1,22 +1,22 @@
 ﻿<h1 align="center">Awesome GitHub Profile README
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="../../assets/media/misc/featuredsvg_20193b73.svg" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="../../Assets_Collection/media/misc/featuredsvg_20193b73.svg" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
-<img src="../../assets/media/misc/badgesvg_9385511a.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="../../assets/media/misc/v1_768fa00b.svg" alt="website"/></a>
+<img src="../../Assets_Collection/media/misc/badgesvg_9385511a.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="../../Assets_Collection/media/misc/v1_768fa00b.svg" alt="website"/></a>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="../../assets/media/misc/v1_451f0e23.svg" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="../../assets/media/misc/733027681184251937svg_87b31eaf.svg" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="../../assets/media/misc/abhisheknaiidusvg_e6506182.svg" /> </a>
+<img src="../../Assets_Collection/media/misc/v1_451f0e23.svg" alt="Star Badge"/>
+<a href="https://discord.gg/XTW52Kt"><img src="../../Assets_Collection/media/misc/733027681184251937svg_87b31eaf.svg" alt="Join Community Badge"/></a>
+<a href="https://twitter.com/abhisheknaiidu" ><img src="../../Assets_Collection/media/misc/abhisheknaiidusvg_e6506182.svg" /> </a>
 <br>
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="../../assets/media/misc/awesome-github-profile-readme_e34023e8.svg" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="../../assets/media/misc/awesome-github-profile-readme_e43109f6.svg" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="../../assets/media/misc/awesome-github-profile-readme_0fbbded1.svg" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="../../assets/media/misc/awesome-github-profile-readme_9a7843ca.svg" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="../../assets/media/misc/awesome-github-profile-readme_a3445132.svg"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="../../assets/media/misc/awesome-github-profile-readme_77a8da02.svg" alt="License Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="../../Assets_Collection/media/misc/awesome-github-profile-readme_e34023e8.svg" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="../../Assets_Collection/media/misc/awesome-github-profile-readme_e43109f6.svg" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="../../Assets_Collection/media/misc/awesome-github-profile-readme_0fbbded1.svg" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="../../Assets_Collection/media/misc/awesome-github-profile-readme_9a7843ca.svg" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="../../Assets_Collection/media/misc/awesome-github-profile-readme_a3445132.svg"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="../../Assets_Collection/media/misc/awesome-github-profile-readme_77a8da02.svg" alt="License Badge"/></a>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
@@ -357,6 +357,6 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ## License
 
-[![CC0](../../assets/media/misc/88x31png_3e06c110.png)](../../assets/media/misc/image_b3fd9d28.png)
+[![CC0](../../Assets_Collection/media/misc/88x31png_3e06c110.png)](../../Assets_Collection/media/misc/image_b3fd9d28.png)
 
 To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
