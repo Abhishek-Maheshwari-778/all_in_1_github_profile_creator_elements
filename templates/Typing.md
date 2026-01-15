@@ -1,0 +1,7 @@
+- [Mathieu Ledru](https://github.com/matyo91/matyo91)
+- [CyrisXD](https://github.com/CyrisXD/CyrisXD)
+- [Mpho Mphego](https://github.com/mmphego/mmphego)
+- [Abhinav Sharma](https://github.com/ABSphreak/ABSphreak)
+- [Mason Slover](https://github.com/MasonSlover/MasonSlover)
+- [SuperSupeng](https://github.com/SuperSupeng/SuperSupeng)
+- [Bayrem Gharsellaoui](https://github.com/kaizoku-oh)
